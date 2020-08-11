@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "points": 1800,
+        "avatar": "Donald",
+        "avatarnumber": "999"
+    },
+    {
+        "id": 2,
+        "points": 1740,
+        "avatar": "PSY",
+        "avatarnumber": "999"
+    },
+    {
+        "id": 3,
+        "points": 1720,
+        "avatar": "Kenny",
+        "avatarnumber": "999"
+    },
+    {
+        "id": 4,
+        "points": 1710,
+        "avatar": "Agent",
+        "avatarnumber": "999"
+    },
+    {
+        "id": 5,
+        "points": 1700,
+        "avatar": "Yoda",
+        "avatarnumber": "999"
+    },
+    {
+        "id": 6,
+        "points": 1680,
+        "avatar": "Unicorn",
+        "avatarnumber": "999"
+    },
+    {
+        "id": 7,
+        "points": 1670,
+        "avatar": "Pony",
+        "avatarnumber": "999"
+    },
+    {
+        "id": 8,
+        "points": 1650,
+        "avatar": "Nerd",
+        "avatarnumber": "999"
+    },
+    {
+        "id": 9,
+        "points": 1640,
+        "avatar": "Wario",
+        "avatarnumber": "1"
+    },
+    {
+        "id": 10,
+        "points": 1630,
+        "avatar": "Donald",
+        "avatarnumber": "2"
+    },
+    {
+        "id": 11,
+        "points": 1620,
+        "avatar": "PSY",
+        "avatarnumber": "2"
+    },
+    {
+        "id": 12,
+        "points": 1610,
+        "avatar": "Kenny",
+        "avatarnumber": "2"
+    },
+    {
+        "id": 13,
+        "points": 1600,
+        "avatar": "Agent",
+        "avatarnumber": "2"
+    },
+    {
+        "id": 14,
+        "points": 1580,
+        "avatar": "Yoda",
+        "avatarnumber": "2"
+    },
+    {
+        "id": 15,
+        "points": 1540,
+        "avatar": "Unicorn",
+        "avatarnumber": "2"
+    },
+    {
+        "id": 16,
+        "points": 1480,
+        "avatar": "Pony",
+        "avatarnumber": "2"
+    },
+    {
+        "id": 17,
+        "points": 1380,
+        "avatar": "Nerd",
+        "avatarnumber": "2"
+    },
+    {
+        "id": 18,
+        "points": 1280,
+        "avatar": "Wario",
+        "avatarnumber": "2"
+    },
+    {
+        "id": 19,
+        "points": 1100,
+        "avatar": "Donald",
+        "avatarnumber": "3"
+    },
+    {
+        "id": 20,
+        "points": 930,
+        "avatar": "PSY",
+        "avatarnumber": "3"
+    },
+    {
+        "id": 21,
+        "points": 820,
+        "avatar": "Kenny",
+        "avatarnumber": "3"
+    },
+    {
+        "id": 22,
+        "points": 730,
+        "avatar": "Agent",
+        "avatarnumber": "3"
+    },
+    {
+        "id": 23,
+        "points": 620,
+        "avatar": "Yoda",
+        "avatarnumber": "3"
+    },
+    {
+        "id": 24,
+        "points": 20,
+        "avatar": "Unicorn",
+        "avatarnumber": "3"
+    }
+]

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d560d527994c6a8448aa229cbcde8b9f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Anton
+  fontNames:
+  - Anton
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 997a43b767814dd0a7642ec9b78cba41, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,152 @@
+{
+  "index": 0,
+  "currentID": 1,
+  "currentPlayer": [{"id": 1000000000, "position": 0, "points": 0, "avatar": "None", "avatarnumber": 0}],
+  "avatars": [["Donald", 1], ["PSY", 1], ["Kenny", 1], ["Agent", 1], ["Yoda", 1],["Unicorn", 1], ["Pony", 1], ["Nerd", 1], ["Wario", 1], ["Wizard", 1]],
+  "highscore" : [
+    {
+      "id": 1000001,
+      "points": 0,
+      "avatar": "None",
+      "avatarnumber": 0
+    },
+    {
+      "id": 1000002,
+      "points": 0,
+      "avatar": "None",
+      "avatarnumber": 0
+    },
+    {
+      "id": 1000003,
+      "points": 0,
+      "avatar": "None",
+      "avatarnumber": 0
+    },
+    {
+      "id": 1000004,
+      "points": 0,
+      "avatar": "None",
+      "avatarnumber": 0
+    },
+    {
+      "id": 1000005,
+      "points": 0,
+      "avatar": "None",
+      "avatarnumber": 0
+    },
+    {
+      "id": 1000006,
+      "points": 0,
+      "avatar": "None",
+      "avatarnumber": 0
+    },
+    {
+      "id": 1000007,
+      "points": 0,
+      "avatar": "None",
+      "avatarnumber": 0
+    },
+    {
+      "id": 1000008,
+      "points": 0,
+      "avatar": "None",
+      "avatarnumber": 0
+    },
+    {
+      "id": 1000009,
+      "points": 0,
+      "avatar": "None",
+      "avatarnumber": 0
+    },
+    {
+      "id": 1000010,
+      "points": 0,
+      "avatar": "None",
+      "avatarnumber": 0
+    },
+    {
+      "id": 1000011,
+      "points": 0,
+      "avatar": "None",
+      "avatarnumber": 0
+    },
+    {
+      "id": 1000012,
+      "points": 0,
+      "avatar": "None",
+      "avatarnumber": 0
+    },
+    {
+      "id": 1000013,
+      "points": 0,
+      "avatar": "None",
+      "avatarnumber": 0
+    },
+    {
+      "id": 1000014,
+      "points": 0,
+      "avatar": "None",
+      "avatarnumber": 0
+    },
+    {
+      "id": 1000015,
+      "points": 0,
+      "avatar": "None",
+      "avatarnumber": 0
+    },
+    {
+      "id": 1000016,
+      "points": 0,
+      "avatar": "None",
+      "avatarnumber": 0
+    },
+    {
+      "id": 1000017,
+      "points": 0,
+      "avatar": "None",
+      "avatarnumber": 0
+    },
+    {
+      "id": 1000018,
+      "points": 0,
+      "avatar": "None",
+      "avatarnumber": 0
+    },
+    {
+      "id": 1000019,
+      "points": 0,
+      "avatar": "None",
+      "avatarnumber": 0
+    },
+    {
+      "id": 1000020,
+      "points": 0,
+      "avatar": "None",
+      "avatarnumber": 0
+    },
+    {
+      "id": 1000021,
+      "points": 0,
+      "avatar": "None",
+      "avatarnumber": 0
+    },
+    {
+      "id": 1000022,
+      "points": 0,
+      "avatar": "None",
+      "avatarnumber": 0
+    },
+    {
+      "id": 1000023,
+      "points": 0,
+      "avatar": "None",
+      "avatarnumber": 0
+    },
+    {
+      "id": 1000024,
+      "points": 0,
+      "avatar": "None",
+      "avatarnumber": 0
+    }
+  ]
+}

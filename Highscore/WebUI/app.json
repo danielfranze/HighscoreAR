@@ -1,0 +1,13 @@
+{
+    "name": "KollaborativeRobotikWebUI",
+    "description": "An Open-Source web ui.",
+    "env": {
+        "NPM_CONFIG_PRODUCTION": "false",
+        "NODE_ENV": "development"
+      },
+      "buildpacks": [
+        {
+          "url": "heroku/nodejs"
+        }
+      ]
+}

@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^7.2.3",
+    "lodash": "^4.13.1"
+  }
+}
