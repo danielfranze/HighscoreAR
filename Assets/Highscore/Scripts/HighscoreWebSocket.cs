@@ -18,7 +18,6 @@ public class HighscoreWebSocket : MonoBehaviour
 
     void Start()
     {
-        closeWebsocket = false;
 
         if (debuggingEnabled)
             Application.runInBackground = true;
