@@ -40,7 +40,7 @@ A WebSocket connection is established by a client (Unity or HoloLens) as soon as
 - **The main application is terminated**
 - **Server goes offline** (client trying to establish a connection)
 
-## 3. Lifetime of the highscore (HoloLens)
+## 3. Lifetime of the GUI (HoloLens)
 The following state diagram shows the lifecycle of the highscore on the HoloLens.
 
 ![statediagram.svg](Highscore/Documentation/Images/statediagram.svg)
@@ -48,16 +48,22 @@ The following state diagram shows the lifecycle of the highscore on the HoloLens
 You can see from the state diagram that the highscore is displayed as soon as the game object "Activator" (a child object of the highscore object) is activated. If this happens, a timer is started and the activator will be deactivated as soon as it has expired.
 
 
-## 4. How to use
+## 4. Overview of the GUI (HoloLens)
+The following overview shows the dependencies of all objects and events of the GUI in context of a project.
+
+![statediagram.svg](Highscore/Documentation/Images/OverviewGUI.svg)
+
+
+## 5. How to use
 For the operation of the two clients and the server a few things are needed, which are explained below.
 
-### 4.1 Requirements
+### 5.1 Requirements
 - **Unity** (v2019.2.13f1)
 - **Microsoft Mixed Reality Toolkit** (v2.2.0)
 - **Node.js** (v12.16.1)
 - **NPM** (v6.14.4)
 
-### 4.2 Installation
+### 5.2 Installation
 #### First Steps
 - Edit the file **highscore.jsx** with your ip address (server):
 ```javascript
